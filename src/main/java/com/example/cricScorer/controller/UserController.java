@@ -1,7 +1,7 @@
-package com.example.myproject.controller;
+package com.example.cricScorer.controller;
 
-import com.example.myproject.model.User;
-import com.example.myproject.repository.UserRepository;
+import com.example.cricScorer.model.User;
+import com.example.cricScorer.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
